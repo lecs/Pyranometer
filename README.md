@@ -1,0 +1,1 @@
+Pyranometer measuring solar radiation from the sun
